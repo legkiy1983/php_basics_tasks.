@@ -1,2 +1,3 @@
 <?php
-echo "My name is Vladimir";
+$name='Vladimir';
+echo "Меня зовут: $name";
