@@ -1,2 +1,3 @@
 <?php
-echo 'I am 33 years old';
+$age=33;
+echo "Мне $age лет";
